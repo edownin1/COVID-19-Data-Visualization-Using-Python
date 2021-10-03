@@ -1,7 +1,7 @@
 ## COVID 19 Data Visualization Using Python (Coursera Guided Project)
 This project uses a COVID-19 dataset (updated daily John Hopkins source) consisting of data related to the cumulative number of confirmed, recovered and deaths cases globally.  The dataset will be prepared in order to answer the following: How does the global spread of the virus look?  How intense has the spread of COVID-19 been in different countries?  Do COVID-19 national lockdowns and self-isolations in different countries actually impact COVID-19 transmission?  Plotly was used to plot insightful and intuitive graphs to answer the questions.  
 
-Please visit [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/edownin1/COVID-19-Data-Visualization-Using-Python/blob/main/COVID-19%20Data%20Visualization%20Notebook%28Final%29.ipynb) to view interactive plots.
+Please visit [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/edownin1/COVID-19-Data-Visualization-Using-Python/blob/80e5733f5bbe6ac20efc7e32df421e676e3f020d/COVID-19%20Data%20Visualization%20Notebook(Final).ipynb)to view interactive plots.
 
 ## Project Objectives
 * Understand the purpose of the project, the dataset and questions answered by the analysis.
